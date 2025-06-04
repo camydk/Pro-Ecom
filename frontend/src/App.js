@@ -1,5 +1,5 @@
 import AddProduct from './components/AddProduct';
-import ProductList from './components/AddProduct';
+// import ProductList from './components/AddProduct';
 
 function App() {
   return (
